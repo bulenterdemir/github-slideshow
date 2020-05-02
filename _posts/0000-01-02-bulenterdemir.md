@@ -2,5 +2,6 @@
 layout:  slide
 title:  "Welcome to our second slide!"
 ---
-Hi, My Name is Bülent 
+:sparkles: I enjoy learning GitHub :sparkles:
+
 Use the left arrow to go back, please.
